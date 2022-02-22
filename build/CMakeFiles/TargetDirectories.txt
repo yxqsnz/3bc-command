@@ -1,3 +1,0 @@
-/home/yxqsnz/Documents/Projects/Rust/3bc-lang/command/build/CMakeFiles/rebuild_cache.dir
-/home/yxqsnz/Documents/Projects/Rust/3bc-lang/command/build/CMakeFiles/edit_cache.dir
-/home/yxqsnz/Documents/Projects/Rust/3bc-lang/command/build/CMakeFiles/3bc.dir
